@@ -1,5 +1,5 @@
 {
-  "frontend_url": "https://localhost/",
+  "frontend_url": "https://bbdn-lti-tool-provider-node.onrender.com/",
   "provider_port": "10000",
   "database_directory": "server/src/database",
   "publicKeys": {
